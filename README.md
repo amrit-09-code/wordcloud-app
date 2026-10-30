@@ -19,3 +19,17 @@ Python, Streamlit, WordCloud, Matplotlib, Plotly, PyPDF2
 ```bash
 pip install -r requirements.txt
 streamlit run cloud.py
+📸 Outputs
+1. WordCloud Output
+Output 1
+
+2. Upload & Settings
+Output 2
+
+3. Word Count & Bar Chart
+Output 3
+
+4. Download Options
+Output 4
+
+Made by Amrit
