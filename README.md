@@ -18,7 +18,10 @@ Python, Streamlit, WordCloud, Matplotlib, Plotly, PyPDF2
 ### How to Run Locally
 ```bash
 pip install -r requirements.txt
+pip install streamlit
 streamlit run cloud.py
+
+
 📸 Outputs
 1. WordCloud Output
 Output 1
